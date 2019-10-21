@@ -1,5 +1,5 @@
 {
-    "name": "nuxt01",
+    "name": "nuxt-todos-sse-db",
     "version": "1.0.0",
     "main": "store/state.js",
     "license": "MIT",
