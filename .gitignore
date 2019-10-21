@@ -1,0 +1,5 @@
+.idea
+.nuxt
+dist
+yarn.lock
+node_modules
